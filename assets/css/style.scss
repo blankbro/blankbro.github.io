@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+/* 隐藏 timeway.github.io */
 .markdown-body>*:first-child {
     display: none;
 }
