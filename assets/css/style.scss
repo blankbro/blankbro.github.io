@@ -3,12 +3,14 @@
 
 @import "{{ site.theme }}";
 
-/* 隐藏 timeway.github.io */
+/* timeway.github.io 样式*/
 .markdown-body>*:first-child {
     display: none;
 }
 
-/* 隐藏 Zexin Li's Blogs 的下划线 */
+/* Zexin Li's Blogs 样式 */
 h1#zexin-lis-blogs {
     border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
