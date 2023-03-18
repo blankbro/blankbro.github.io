@@ -1,6 +1,6 @@
 # [Zexin Li’s Blog](https://github.com/timeway/timeway.github.io)
 
-A blog about tech, programming and other things.
+<sup>A blog about tech, programming and other things.</sup>
 
 ## 2022
 
