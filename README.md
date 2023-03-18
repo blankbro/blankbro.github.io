@@ -1,4 +1,4 @@
-# [Zexin Li’s Blogs](https://github.com/timeway/timeway.github.io)
+# [Zexin Li’s Blogs](https://github.com/timeway/timeway.github.io) <sub><sub>A blog about tech, programming and other things.</sub></sub>
 
 ## 2022
 
