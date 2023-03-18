@@ -7,3 +7,8 @@
 .markdown-body>*:first-child {
     display: none;
 }
+
+/* 隐藏 Zexin Li's Blogs 的下划线 */
+h1#zexin-lis-blogs {
+    border-bottom: none;
+}
