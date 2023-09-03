@@ -89,7 +89,7 @@ comments:
   # utterances settings › https://utteranc.es/
   utterances:
     repo: lzxoy/lzxoy.github.io # <gh-username>/<repo>
-    issue_term: id # < url | pathname | title | ...>
+    issue_term: url # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
