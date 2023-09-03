@@ -93,9 +93,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: lzxoy/lzxoy.github.io # <gh-username>/<repo>
-    repo_id:
-    category: general
-    category_id:
+    repo_id: R_kgDOJIJ8tA
+    category: General
+    category_id: DIC_kwDOJIJ8tM4CZDbL
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
