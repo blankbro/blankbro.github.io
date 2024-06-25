@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   A blog about tech, programming and other things.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://lzxoy.github.io"
+url: "https://blankbro.github.io"
 
 github:
-  username: lzxoy # change to your github username
+  username: lizexin # change to your github username
 
 # zexin twitter:
 # zexin   username: twitter_username # change to your twitter username
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # zexin  - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/lzxoy # change to your github homepage
+    - https://github.com/blankbro # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -92,7 +92,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: lzxoy/lzxoy.github.io # <gh-username>/<repo>
+    repo: blankbro/blankbro.github.io # <gh-username>/<repo>
     repo_id: R_kgDOJIJ8tA
     category: General
     category_id: DIC_kwDOJIJ8tM4CZDbL
